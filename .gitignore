@@ -1,0 +1,7 @@
+#ignore folder env
+env/
+
+#ignore retrieve.py file
+
+retrieve.py
+timetoepoch.py
